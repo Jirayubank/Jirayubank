@@ -1,6 +1,7 @@
-- 👋 Hi, I’m BankkV 
-- 👀 I’m interested in coding c, python
-- 🌱 I’m currently learning electronics
+![Selena](https://static.miraheze.org/pgrwiki/thumb/9/9f/Dialogue-Capriccio-Chibi-Icon.png/90px-Dialogue-Capriccio-Chibi-Icon.png)
+
+Coffee powered random projects
+
 
 <!---
 Jirayubank/Jirayubank is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
