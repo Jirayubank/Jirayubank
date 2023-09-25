@@ -1,4 +1,4 @@
-![Selena](https://static.miraheze.org/pgrwiki/thumb/9/9f/Dialogue-Capriccio-Chibi-Icon.png/90px-Dialogue-Capriccio-Chibi-Icon.png)
+<img src="https://pbs.twimg.com/media/F6spOthbMAAt2sa?format=jpg" alt="alpha" width="150"/>
 
 Coffee powered random projects
 
