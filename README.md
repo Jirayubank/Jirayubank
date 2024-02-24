@@ -1,4 +1,4 @@
-<img src="https://pbs.twimg.com/media/F6spOthbMAAt2sa?format=jpg" alt="alpha" width="150"/>
+<!---<img src="https://pbs.twimg.com/media/F6spOthbMAAt2sa?format=jpg" alt="alpha" width="150"/>--->
 
 Coffee powered random projects
 
